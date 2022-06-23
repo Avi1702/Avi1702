@@ -1,7 +1,4 @@
-### Hi there 👋
 
-
-**Avi1702/Avi1702** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <h1 align="center">Hi 👋, I'm Avinash Kumar Ray</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
