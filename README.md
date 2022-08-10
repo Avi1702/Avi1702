@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Avinash Kumar Ray</h1>
-<h3 align="center">A passionate Full-Stack developer from India</h3>
+<h3 align="center">A passionate Full-Stack web-developer from India</h3>
 
 <!-- <p align="left"> <a href="https://twitter.com/avinash kumar" target="blank"><img src="https://img.shields.io/twitter/follow/avinash kumar?logo=twitter&style=for-the-badge" alt="avinash kumar" /></a> </p> -->
 
