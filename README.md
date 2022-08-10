@@ -4,10 +4,10 @@
 <h3 align="center">A passionate Full-Stack Web Developer from India</h3>
 
 <!-- <p align="left"> <a href="https://twitter.com/avinash kumar" target="blank"><img src="https://img.shields.io/twitter/follow/avinash kumar?logo=twitter&style=for-the-badge" alt="avinash kumar" /></a> </p> -->
-📄 Currently learning : **MERN Stack **
+📄 Currently learning : **MERN Stack ** <br/>
 💬 Ask me about: Anything and everything. Would love to connect.
 - 📫 How to reach me **avinashroy1702@gmail.com**
-
+<hr/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/avinash kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="avinash kumar" height="30" width="40" /></a>
