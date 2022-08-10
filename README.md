@@ -4,9 +4,9 @@
 <h3 align="center">A passionate Full-Stack Web Developer from India</h3>
 
 <!-- <p align="left"> <a href="https://twitter.com/avinash kumar" target="blank"><img src="https://img.shields.io/twitter/follow/avinash kumar?logo=twitter&style=for-the-badge" alt="avinash kumar" /></a> </p> -->
- 📄 Currently learning : **MERN Stack ** 
--💬 Ask me about: Anything and everything. Would love to connect.
--📫 How to reach me **avinashroy1702@gmail.com**
+ 📄 Currently learning : **MERN Stack ** <br/>
+ 💬 Ask me about: Anything and everything. Would love to connect.<br/>
+ 📫 How to reach me **avinashroy1702@gmail.com**
 <hr/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
