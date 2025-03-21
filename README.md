@@ -5,7 +5,7 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/avinash kumar" target="blank"><img src="https://img.shields.io/twitter/follow/avinash kumar?logo=twitter&style=for-the-badge" alt="avinash kumar" /></a> </p> -->
 <p align="center">
- 📄 Currently learning : **MERN Stack ** <br/>
+ 📄 Currently working as a Frontend developer at Verticurl - an Ogilvy company <br/>
  💬 Ask me about: Anything and everything. Would love to connect.<br/>
  📫 How to reach me **avinashroy1702@gmail.com**
  </p>
